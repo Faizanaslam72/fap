@@ -1,0 +1,6 @@
+{
+  "name": "MDF Willpower & Streak Tracker",
+  "description": "Personal habit control & streak tracker with dynamic relapse targets, average control time analytics, peak relapse time of day, and worst relapse day insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
